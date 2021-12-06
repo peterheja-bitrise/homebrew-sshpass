@@ -1,7 +1,7 @@
 # Peterheja-bitrise Sshpass
 
 ## How do I install these formulae?
-`brew install peterheja-bitrise/sshpass/<formula>`
+`brew install peterheja-bitrise/sshpass/sshpass`
 
 Or `brew tap peterheja-bitrise/sshpass` and then `brew install <formula>`.
 
